@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Alex Mitchell",
+        "title": "'Pan-dimwits': Jimmy Kimmel says the unvaxxed don't deserve ICU beds - New York Post ",
+        "description": "Where’d you get your degree, Jimbo? ABC late-night host Jimmy Kimmel took a shot at unvaccinated Americans on air Tuesday, saying they shouldn’t be admitted to ICU beds. Ranting about i…",
+        "url": "https://nypost.com/2021/09/08/jimmy-kimmel-says-unvaxxed-americans-dont-deserve-icu-beds/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/jimmy-kimmel-icu-covid-03.jpg?quality=90&strip=all&w=1024",
+        "publishedAt": "2021-09-08T18:14:00Z",
+        "content": "Where’d you get your degree, Jimbo?\r\nABC late-night host Jimmy Kimmel took a shot at unvaccinated Americans on air Tuesday, saying they shouldn’t be admitted to ICU beds.\r\nRanting about inflated COVI… [+1641 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Times"
+        },
+        "author": "Ivan Penn",
+        "title": "Biden Offers Ambitious Blueprint for Solar Energy - The New York Times",
+        "description": "The Energy Department analysis provides only a broad outline, and many of the details will be decided by congressional lawmakers.",
+        "url": "https://www.nytimes.com/2021/09/08/business/energy-environment/biden-solar-energy-climate-change.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/09/08/business/08biden-solar/08biden-solar-facebookJumbo-v2.jpg",
+        "publishedAt": "2021-09-08T18:06:23Z",
+        "content": "One thing going for the administration is that the cost of solar panels has fallen substantially over the last decade, making them the cheapest source of energy in many parts of the country. The use … [+2305 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Times"
+        },
+        "author": "Colin Moynihan",
+        "title": "Nxivm Leader's Top Deputy Sentenced to 42 Months in Prison - The New York Times",
+        "description": "Nancy Salzman, the Nxivm “prefect,” and Keith Raniere were closely linked. But in a letter to a judge, she portrayed herself as a dupe controlled by a “sex fiend.”",
+        "url": "https://www.nytimes.com/2021/09/08/nyregion/nancy-salzman-nxivm-sentencing.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/09/08/nyregion/08salzman/08salzman-facebookJumbo.jpg",
+        "publishedAt": "2021-09-08T18:02:01Z",
+        "content": "In their sentencing memo to Judge Garaufis, they enumerated the crimes committed by Ms. Salzman, who served as Nxivms president and was known within the group as Prefect.\r\nShe had taken part in unlaw… [+1327 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Ryan Gaydos",
+        "title": "Cam Newton: 'I have a lot of things I need to get off my chest' after Patriots release - Fox News",
+        "description": "Cam Newton teased Wednesday some interesting remarks were coming as he wanted to get some things off his chest after being released by the New England Patriots before the start of the regular season.",
+        "url": "https://www.foxnews.com/sports/cam-newton-remarks-patriots-release",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Cam-Newton2.jpg",
+        "publishedAt": "2021-09-08T17:38:33Z",
+        "content": "Cam Newton teased Wednesday some interesting remarks were coming as he wanted to get some things off his chest after being released by the New England Patriots before the start of the regular season.… [+2292 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Mallory Simon, CNN",
+        "title": "Florida judge allows school mask mandates to continue despite governor's appeal - CNN",
+        "description": "A Florida judge ruled against Gov. Ron Desantis on Wednesday and allowed schools in the state to mandate face-masks while the case is appealed at a higher level.",
+        "url": "https://www.cnn.com/2021/09/08/us/florida-mask-mandate-schools/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210811081741-florida-school-masks-politics-santiago-00011612-super-tease.png",
+        "publishedAt": "2021-09-08T17:26:00Z",
+        "content": "(CNN)A Florida judge ruled against Gov. Ron Desantis on Wednesday and allowed schools in the state to mandate face-masks while the case is appealed at a higher level.\r\nThe ruling from Second Circuit … [+3364 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Rachel Treisman",
+        "title": "Fact Check: Texas Gov. Greg Abbott's Misleading Remarks On The State's Abortion Law - NPR",
+        "description": "Abbott suggested victims of rape have \"at least six weeks\" to get an abortion if they choose under his state's new law. But the timeline is actually much shorter than that for most people.",
+        "url": "https://www.npr.org/2021/09/08/1035119369/fact-check-texas-gov-greg-abbotts-misleading-remarks-on-the-states-abortion-law",
+        "urlToImage": "https://media.npr.org/assets/img/2021/09/08/gettyimages-1233341629_small_wide-d4ff426f7196254bfad52a1f888fb2c9ad7fa2a4.jpg?s=1400",
+        "publishedAt": "2021-09-08T17:20:43Z",
+        "content": "Critics are pushing back against Texas Gov. Greg Abbott for comments he made during a bill signing on Tuesday about the timeline for getting an abortion under new state law.\r\nMontinique Monroe/Getty … [+5914 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Danielle Wallace",
+        "title": "Florida girl, 11, describes how she survived Marine's shooting rampage that left family dead - Fox News",
+        "description": "The only surviving victim, an 11-year-old, who remains hospitalized after a Marine veteran on a shooting rampage burst into her home and killed four people, including a baby in his mother’s arms, has told investigators she believes she made it out alive becau…",
+        "url": "https://www.foxnews.com/us/florida-girl-11-survived-marine-shooting-rampage-family-dead",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/AP21250688897764.jpg",
+        "publishedAt": "2021-09-08T17:19:37Z",
+        "content": "The only surviving victim, an 11-year-old, who remains hospitalized after a Marine veteran on a shooting rampage burst into her central Florida home and killed four people, including a baby in his mo… [+4949 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": null,
+        "title": "Nipah Virus Death Has Officials In India's Kerala State On High Alert - NPR",
+        "description": "Officials in Kerala are contact-tracing and isolating hundreds of people after the boy's death Sunday. There is no vaccine for the rare virus, which can cause raging fevers, convulsions and vomiting.",
+        "url": "https://www.npr.org/2021/09/08/1035137211/nipah-virus-india-death-kerala",
+        "urlToImage": "https://media.npr.org/assets/img/2021/09/08/ap21250265222452_wide-353e4679ca29f6a02e564a3a832e619eb569c8b7.jpg?s=1400",
+        "publishedAt": "2021-09-08T16:52:00Z",
+        "content": "People in protective suits prepare to cremate the body of a 12-year-old boy died of the Nipah virus in Kozhikode, Kerala state, India, on Sept. 5. The southern Indian state is quickly ramping up effo… [+2440 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Rich Mendez",
+        "title": "WHO extends call for a moratorium on Covid booster doses until the end of the year - CNBC",
+        "description": "The World Health Organization has extended its call for a moratorium on Covid-19 booster doses until at least the end of the year.",
+        "url": "https://www.cnbc.com/2021/09/08/who-extends-call-for-a-moratorium-on-covid-booster-doses-until-the-end-of-the-year.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106873064-16191922932021-04-11t184840z_899993062_rc2utm9w8k8k_rtrmadp_0_health-coronavirus-blinken.jpeg?v=1626794431",
+        "publishedAt": "2021-09-08T16:11:41Z",
+        "content": "The World Health Organization has extended its call for a moratorium on Covid-19 booster doses until at least the end of the year.\r\nThe WHO previously urged world leaders to hold off on booster doses… [+1559 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BuzzFeed News"
+        },
+        "author": "Leyla Mohammed",
+        "title": "Britney Spears’ Attorney Said Jamie Spears Suddenly Filing To End Her Conservatorship Is An Attempt To Avoid Answering Questions Under Oath And Escape “Accountability And Justice” - BuzzFeed News",
+        "description": "After refusing to end Britney Spears’ conservatorship for the past 13 years, Jamie Spears appears to have now made a major U-turn.",
+        "url": "https://www.buzzfeednews.com/article/leylamohammed/britney-spears-attorney-jamie-spears-avoid-accountability",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2021-09/8/15/enhanced/545d31e8129a/original-451-1631116434-2.jpg?crop=1113:583;30,0",
+        "publishedAt": "2021-09-08T16:09:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Rebecca Bellan",
+        "title": "Sila Nanotechnologies’ battery technology will launch in Whoop wearables - TechCrunch",
+        "description": "Sila Nanotechnologies’ next-generation battery technology made its commercial product debut Wednesday in the new Whoop fitness tracker, a milestone that caps a decade of research and development by the Silicon Valley startup, all aimed at cracking the code to…",
+        "url": "http://techcrunch.com/2021/09/08/sila-nanotechnologiess-first-next-gen-battery-will-launch-in-whoop-wearables/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/WHOOP_SILA_2.png?w=712",
+        "publishedAt": "2021-09-08T16:01:07Z",
+        "content": "Sila Nanotechnologies’next-generation battery technology made its commercial product debut Wednesday in the new Whoop fitness tracker, a milestone that caps a decade of research and development by th… [+4889 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ESPN"
+        },
+        "author": "ESPN",
+        "title": "Christian Pulisic, USMNT eye 'results' after Weston McKennie exit - ESPN",
+        "description": "Christian Pulisic has said the USMNT is focused on ending its wait for a first World Cup qualifying win when it faces Honduras.",
+        "url": "https://www.espn.com/soccer/united-states-usa/story/4470707/christian-pulisicusmnt-eye-results-after-weston-mckennie-exit",
+        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0905%2Fr905201_1296x729_16%2D9.jpg",
+        "publishedAt": "2021-09-08T15:59:11Z",
+        "content": "Christian Pulisic said the United States men's soccer team is focused on picking up its first win in World Cup qualifying when it faces Honduras on Wednesday, amid Weston McKennie's exit from the nat… [+2466 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Associated Press",
+        "title": "EXPLAINER: What's at stake in the 2015 Paris attacks trial? - Fox News",
+        "description": "Twenty men accused in the Islamic State group's 2015 attacks on Paris that left 130 people dead and hundreds injured are on trial in the French capital. The proceedings began Wednesday in an enormous custom-designed chamber.",
+        "url": "https://www.foxnews.com/world/explainer-whats-at-stake-in-the-2015-paris-attacks-trial",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/AP21251217671323.jpg",
+        "publishedAt": "2021-09-08T15:55:48Z",
+        "content": "Twenty men accused in the Islamic State group's 2015 attacks on Paris that left 130 people dead and hundreds injured are on trial in the French capital. The proceedings began Wednesday in an enormous… [+4357 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "Burgess Everett",
+        "title": "Schumer rejects Manchin's 'strategic pause' on $3.5T megabill - POLITICO",
+        "description": "The majority leader enjoys a close relationship with his most vocal centrist, and Democrats are not yet alarmed about their internal whip count.",
+        "url": "https://www.politico.com/news/2021/09/08/schumer-manchin-megabill-510446",
+        "urlToImage": "https://static.politico.com/66/5f/81b6bfc64aa08bae4f04b4808d64/210908-chuck-schumer-ap-773.jpg",
+        "publishedAt": "2021-09-08T15:48:24Z",
+        "content": "Manchin last week published an op-ed urging his party to slow down its work on the bill it aims to pass along party lines using the budget reconciliation process, which can evade a GOP filibuster but… [+2405 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Emily Crane",
+        "title": "Having COVID-19 and vaccine may give some 'superhuman immunity': study - New York Post ",
+        "description": "Researchers say people who have had “hybrid” exposure to COVID-19 have mounted a powerful immune response to the virus and are likely able to fight off most of the variants.",
+        "url": "https://nypost.com/2021/09/08/having-covid-19-and-vaccine-may-provide-superhuman-immunity/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/superhumans-hp.jpg?quality=90&strip=all&w=1024",
+        "publishedAt": "2021-09-08T15:36:00Z",
+        "content": "Some people have superhuman immunity to fight off COVID-19 if theyve previously had the virus and received two vaccine doses, new studies shows.\r\nResearchers say people who have had hybrid exposure t… [+2169 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space.com"
+        },
+        "author": "Meghan Bartels",
+        "title": "NASA's James Webb Space Telescope launch delayed to December - Space.com",
+        "description": "The Dec. 18 launch slip is yet another delay for the long-awaited observatory.",
+        "url": "https://www.space.com/james-webb-space-telescope-launch-december-2021",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/gHnTKJuEt8f6QRDk8XFJz7-1200-80.jpeg",
+        "publishedAt": "2021-09-08T15:13:10Z",
+        "content": "NASA's long-awaited and high-powered James Webb Space Telescope\r\n won't begin observations this year after NASA and its counterpart the European Space Agency (ESA) announced another launch delay.\r\nIn… [+3263 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Grace Panetta",
+        "title": "WH staffers mute, turn off TV when Biden talks to reporters: Politico - Business Insider",
+        "description": "\"I know people who habitually don't watch it live for that reason,\" a White House official told Politico of Biden's public appearances.",
+        "url": "https://www.businessinsider.com/white-house-staffers-mute-turn-off-tv-biden-speech-report-2021-9",
+        "urlToImage": "https://i.insider.com/6138bcf72534ab0018534413?width=1200&format=jpeg",
+        "publishedAt": "2021-09-08T15:12:22Z",
+        "content": "White House staffers have taken to muting the TV or turning it off altogether when President Joe Biden speaks with reporters because they are nervous their boss will commit a gaffe or veer off messag… [+2492 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Krebs on Security"
+        },
+        "author": null,
+        "title": "Microsoft: Attackers Exploiting Windows Zero-Day Flaw – Krebs on Security - Krebs on Security",
+        "description": "Microsoft Corp. warned Tuesday that attackers are exploiting a previously unknown vulnerability in Windows 10 and many Windows Server versions to seize control over PCs when users open a malicious document or visit a booby-trapped website. There is currently …",
+        "url": "https://krebsonsecurity.com/2021/09/microsoft-attackers-exploiting-windows-zero-day-flaw/",
+        "urlToImage": "https://krebsonsecurity.com/wp-content/uploads/2021/09/ms-bldg.png",
+        "publishedAt": "2021-09-08T15:10:12Z",
+        "content": "Microsoft Corp. warns that attackers are exploiting a previously unknown vulnerability in Windows 10 and many Windows Server versions to seize control over PCs when users open a malicious document or… [+2907 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Daily Beast"
+        },
+        "author": "Cheyenne Roundtree",
+        "title": "John Mulaney Reveals Olivia Munn Is Pregnant, Thanks Seth Meyers for 'Saving' His Life - The Daily Beast",
+        "description": "“She’s kind of held my hand through that hell, and we are having a baby together,” the comedian told Seth Meyers on Tuesday night.",
+        "url": "https://www.thedailybeast.com/john-mulaney-reveals-olivia-munn-is-pregnant-thanks-seth-meyers-for-saving-his-life",
+        "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1090,w_1936,x_47,y_663/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1631110821/GettyImages-1084015108_v289fn",
+        "publishedAt": "2021-09-08T15:09:55Z",
+        "content": "John Mulaney sat down with his close friend Seth Meyers on Tuesday night to open up about his recent struggles with substance abuse, his newfound triumphs, and to announce that he is expecting his fi… [+3199 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Michael Liedtke",
+        "title": "Trial set to begin for fallen tech star Elizabeth Holmes - Associated Press",
+        "description": "SAN JOSE, California (AP) — Opening statements are scheduled for Wednesday in the highly anticipated trial of Theranos founder Elizabeth Holmes, the fallen tech star accused of duping financial backers, customers and patients into believing that her startup w…",
+        "url": "https://apnews.com/article/technology-entertainment-trials-california-san-jose-70c62afae356279ef8706b3ac9f5bcae",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/26298dd802904f59afdc94b03bd9cf90/3000.jpeg",
+        "publishedAt": "2021-09-08T15:03:46Z",
+        "content": "SAN JOSE, California (AP) Opening statements are scheduled for Wednesday in the highly anticipated trial of Theranos founder Elizabeth Holmes, the fallen tech star accused of duping financial backers… [+2234 chars]"
+      }
+    ]
+  }
